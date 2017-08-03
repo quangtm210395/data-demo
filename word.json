@@ -1,0 +1,39 @@
+{
+    "means": [{
+            "examples": [{
+                    "content": "母は何時も朝のテレビで掛け時計を合わせている。",
+                    "mean": "Mẹ tôi thường chỉnh đồng hồ treo tường theo tivi buổi sáng.",
+                    "transcription": "はははいつもあさのテレビでかけどけいをあわせている。"
+                },
+                {
+                    "content": "目覚し時計を６時に合わせる",
+                    "mean": "chỉnh đồng hồ báo thức vào 6h.",
+                    "transcription": "めざましとけいをろくじにあわせる"
+                }
+            ],
+            "kind": "v1, vt",
+            "mean": "điều chỉnh (đồng hồ)"
+        },
+        {
+            "examples": [{
+                    "content": "私たちは声を合わせて歌った。",
+                    "mean": "Chúng tôi hát đồng thanh.",
+                    "transcription": "わたしたちはこえをあわせてうたった。"
+                },
+                {
+                    "content": "ピアノの曲に合わせて踊りなさい。",
+                    "mean": "Hãy nhảy theo điệu nhạc của đàn piano",
+                    "transcription": "ピアノのきょくにあわせておどりなさい。"
+                }
+            ],
+            "kind": "v1, vt",
+            "mean": "hợp (âm điệu, giai điệu); hòa chung (giọng)"
+        }
+    ],
+    "phonetic": "あわせる",
+    "mobileId": 79842,
+    "_id": "54053bd79d053f61f90b2e3adab75b74",
+    "word": "合わせる"
+}
+
+Đây là data mẫu về từ vựng. ở examples có rất nhiều, nó chính là mấy cái chấm xanh trong ảnh, nhưng anh xóa bớt đi cho đỡ dài. phonetic ở đây nó là furigana đấy. mấy cái khác chắc mn xem là sẽ hiểu.

@@ -1,0 +1,22 @@
+{
+    "level": "N3",
+    "usages": [{
+        "explain": "  ☞D&ugrave;ng để thể hiện một h&agrave;nh động vừa mới kết th&uacute;c trong thời gian gần so với hiện tại. ☞Mẫu c&acirc;u n&agrave;y biểu thị một việc g&igrave; đ&oacute; xảy ra c&aacute;ch thời điểm hiện tại chưa l&acirc;u (theo cảm nhận của người n&oacute;i). Khoảng thời gian thực tế từ l&uacute;c sự việc đ&oacute; xảy ra đến thời điểm hiện tại c&oacute; thể d&agrave;i ngắn kh&aacute;c nhau, nhưng nếu người n&oacute;i cảm nhận khoảng thời gian đ&oacute; l&agrave; ngắn th&igrave; c&oacute; thể d&ugrave;ng mẫu c&acirc;u n&agrave;y. ",
+        "note": "  Trong văn n&oacute;i, c&oacute; thể chuyển th&agrave;nh &ldquo;ばっか&rdquo;. Vたばっか まさか、今起きたばっかなの。まさか、いまおきたばっかなの。 C&oacute; lẽ n&agrave;o, b&acirc;y giờ mới dậy đ&oacute; hả? ",
+        "examples": [{
+                "content": " すみません。",
+                "mean": " Xin lỗi. T&ocirc;i vừa mới ăn xong n&ecirc;n bụng vẫn c&ograve;n no.",
+                "transcription": "すみません。"
+            },
+            {
+                "content": " 今、家に帰ったばかりだ。",
+                "mean": " B&acirc;y giờ, t&ocirc;i mới vừa về nh&agrave; th&ocirc;i.",
+                "transcription": "いま、いえにかえったばかりだ。"
+            }
+        ],
+        "mean": " : Vừa mới (l&agrave;m g&igrave;) ",
+        "synopsis": "  Vたばかり  "
+    }],
+    "title": "〜たばかり     =>Vừa mới (làm gì)"
+}
+Trên đây là 1 ví dụ khi anh lấy từ api của mazii, thì 1 grammar của nó sẽ có cấu trúc như này. Với mỗi dòng có dấu 2 chấm, thì phần bên trái là tên của kiểu dữ liệu đó, bên phải là giá trị. Ví dụ level: N3 có nghĩa là level là n3, explain: "......" thì giải thích sẽ là như thế. chỗ usages: [] ở trong ngoặc vuông này có nhiều usage, mỗi usage là 1 cách dùng. thì nhìn qua đây mn có thể hiểu được cấu trúc dữ liệu của ngữ pháp. Mn dùng để tham khảo, thêm bớt tạo ra kiểu của mình.
